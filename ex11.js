@@ -4,3 +4,7 @@ function premiereLettreMajuscule(chaine) {
 }
 
 console.log(premiereLettreMajuscule("bonjour tout le monde")); // Résultat attendu : "Bonjour Tout Le Monde"
+console.log(premiereLettreMajuscule("coucou comment ca va")); // Résultat attendu : "Bonjour Tout Le Monde"
+console.log(premiereLettreMajuscule("bonjour tout le monde")); // Résultat attendu : "Bonjour Tout Le Monde"
+console.log(premiereLettreMajuscule("bonjour tout le monde")); // Résultat attendu : "Bonjour Tout Le Monde"
+console.log(premiereLettreMajuscule("bonjour tout le monde")); // Résultat attendu : "Bonjour Tout Le Monde"
