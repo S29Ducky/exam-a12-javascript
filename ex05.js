@@ -8,4 +8,4 @@ function compterVoyelles(chaine) {
     return nbdevoyelle
 }
 
-console.log(compterVoyelles("bonjouroutyue")); // Résultat attendu : 3
+console.log(compterVoyelles("bonjouroutyue")); // Résultat attendu : 8
